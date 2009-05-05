@@ -1,5 +1,5 @@
 <HTML>
-<!-- 作成日 2009/4/14  10:55:35 PM -->
+<!-- created 2009/4/14  10:55:35 PM -->
 <HEAD>
 	<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<META NAME="GENERATOR" CONTENT="mi">
